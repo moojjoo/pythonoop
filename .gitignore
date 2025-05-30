@@ -1,0 +1,5 @@
+go.mod
+Dockerfile
+dockserv
+main.go
+/dockserv/
